@@ -1,6 +1,8 @@
-A library management smart contract that can perform the following functions:
-  
-  1.Create a new book entry 
-  2.Lend a book
-  3.Return a book
-  4.Calculate Fees
+<p>A library management smart contract that can perform the following functions:</p>
+  <ol>
+ <li> Create a new book entry </li>
+  <li>Lend a book</li>
+  <li>Return a book</li>
+  <li>Calculate Fees</li>
+</ol>
+</p>
